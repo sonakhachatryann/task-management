@@ -1,0 +1,6 @@
+0|Lilit|Khachatryan|25
+1|Soan|Khachatryan|20
+2|Mariam|Khachatryan|25
+3|Gohar|Tamazyan|30
+4|Tigran|Babayan|4
+5|Svetlanna|Grigoryan|50
